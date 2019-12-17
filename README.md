@@ -1,2 +1,4 @@
 # md5encrypt
 THE PROGRAM READS EACH LINE IN THE FILE, CONVERTS IT TO MD5 AND WRITES IT TO THE DATABASE
+
+(so far only for small files)
